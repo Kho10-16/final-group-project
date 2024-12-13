@@ -2,7 +2,7 @@
 #include <string>
 #include <windows.h>
 #include <conio.h>
-
+a
 using namespace std;
 
 class player{
